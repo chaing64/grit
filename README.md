@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
