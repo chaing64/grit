@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+OBB: Fix plot_images (#7592)
